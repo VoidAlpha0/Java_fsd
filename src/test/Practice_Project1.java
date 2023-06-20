@@ -1,8 +1,8 @@
 package test;
 
-public class type_cast {
-	public static void main(String[] args)
-	{
+public class Practice_Project1 {
+
+	public static void main(String[] args) {
 		int a1=99;
 		double a2=99.32;
 		double a1_d= a1;
@@ -14,6 +14,7 @@ public class type_cast {
 		System.out.println("double value :"+ a1_d);
 		System.out.println("int value :"+ a2_i);
 		System.out.println("double value :"+ a2);
+
 	}
 
 }

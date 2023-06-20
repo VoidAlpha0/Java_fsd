@@ -1,10 +1,9 @@
 package test;
 
-public class access_modifiers {
+public class Practice_project3 {
 
 	public static void main(String[] args) {
 		
-
 	}
 
 }
