@@ -19,12 +19,7 @@ public class validationOfEmail {
 		else {
 			System.out.println("not a email.");
 		}
-//		System.out.println("enter 0 to exit");
-//		String s = sc.nextLine();
-//		if(s=="0") {
-//			continue;
-//		
-//		}
+		
 		
 	}
 
